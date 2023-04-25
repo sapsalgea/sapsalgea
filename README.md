@@ -13,12 +13,13 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 </p>
 <h3 align="center"> 💽 DataBase </h3>
 <p align="center">
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
-<img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+
 </p>
 </hr>
 </hr>
