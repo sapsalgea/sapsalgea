@@ -6,12 +6,13 @@
 <h3 align="center"> 🔤 Projects  </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </p>  
 <h3 align="center"> 🔤 Language  </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 </p>
 <h3 align="center"> 💽 DataBase </h3>
 <p align="center">
